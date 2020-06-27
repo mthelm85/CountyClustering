@@ -3,6 +3,18 @@ uuid = "9bd20f9b-06ff-40ee-bf37-aa2b3373d8a4"
 authors = ["Matthew Helm"]
 version = "0.1.0"
 
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataFramesMeta = "1313f7d8-7da2-5740-9ea0-a2ca25f37964"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+URIParser = "30578b45-9adc-5946-b283-645ec420af67"
+VegaLite = "112f6efa-9a02-5b7d-90c0-432ed331239a"
+WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
+
 [compat]
 julia = "1"
 
